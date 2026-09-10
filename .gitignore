@@ -216,3 +216,12 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Datasets
+SOCOFing/
+
+# OS generated files
+desktop.ini
+Thumbs.db
+.DS_Store
+
